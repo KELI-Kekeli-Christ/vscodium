@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="README.md"><b>English</b></a>
+  &nbsp;·&nbsp;
+  <a href="README.fr.md">Français</a>
+  &nbsp;·&nbsp;
+  <a href="README.es.md">Español</a>
+</p>
+
 <div id="vscodium-logo" align="center">
     <br />
     <img src="./icons/stable/codium_cnl.svg" alt="VSCodium Logo" width="200"/>
